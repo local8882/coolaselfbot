@@ -1,0 +1,6 @@
+{
+    "token":"discord-token-goes-here",
+    "prefix":"prefix-for-commands-go-here",
+    "streamurl":"url-for-streaming-status-here only youtube and twitch links supported. you can leave blank if you want"
+    
+}
